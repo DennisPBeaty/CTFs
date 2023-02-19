@@ -1,0 +1,5 @@
+0-Trivial
+
+Let's play with this challenge remotely.
+
+moa6.eecs.utk.edu:8001
