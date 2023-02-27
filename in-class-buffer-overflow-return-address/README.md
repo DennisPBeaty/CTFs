@@ -1,2 +1,2 @@
 <p>Top right terminal is objdump -d ./vuln</p>
-![Solution](./ctf.png)
+<img src="ctf.png" alt="Solution" title="How to Solve">
